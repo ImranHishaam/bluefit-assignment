@@ -2,7 +2,7 @@ import { createStore, applyMiddleware, combineReducers } from "redux";
 import thunk from 'redux-thunk';
 import { persistStore, persistReducer } from "redux-persist";
 import storage from "redux-persist/lib/storage";
-import searchReducer from "../components/search/search.reducer";
+import { SearchReducer } from "../components/search";
 
 const persistConfig = {
   key: "root",
@@ -10,7 +10,7 @@ const persistConfig = {
 };
 
 const searchAppReducer = combineReducers({
-  search: searchReducer
+  search: SearchReducer
 });
 
 const persistedReducer = persistReducer(persistConfig, searchAppReducer);

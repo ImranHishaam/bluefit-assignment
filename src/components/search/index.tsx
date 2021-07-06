@@ -1,3 +1,5 @@
 import SearchComponent from "./search.component";
 
-export { SearchComponent };
+import SearchReducer from "./search.reducer";
+
+export { SearchComponent, SearchReducer };
