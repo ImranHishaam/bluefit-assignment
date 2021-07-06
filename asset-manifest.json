@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/bluefit/static/js/main.aa08f7df.chunk.js",
+    "main.js.map": "/bluefit/static/js/main.aa08f7df.chunk.js.map",
+    "runtime-main.js": "/bluefit/static/js/runtime-main.ba304614.js",
+    "runtime-main.js.map": "/bluefit/static/js/runtime-main.ba304614.js.map",
+    "static/js/2.87d88347.chunk.js": "/bluefit/static/js/2.87d88347.chunk.js",
+    "static/js/2.87d88347.chunk.js.map": "/bluefit/static/js/2.87d88347.chunk.js.map",
+    "static/js/3.9360b487.chunk.js": "/bluefit/static/js/3.9360b487.chunk.js",
+    "static/js/3.9360b487.chunk.js.map": "/bluefit/static/js/3.9360b487.chunk.js.map",
+    "index.html": "/bluefit/index.html",
+    "static/js/2.87d88347.chunk.js.LICENSE.txt": "/bluefit/static/js/2.87d88347.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba304614.js",
+    "static/js/2.87d88347.chunk.js",
+    "static/js/main.aa08f7df.chunk.js"
+  ]
+}
